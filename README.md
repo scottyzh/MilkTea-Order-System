@@ -61,7 +61,7 @@ UML图：
 
  UML图：
 
-![img](README/clip_image030.gif)                                                           3   
+![img](README/clip_image030.gif)                                                              
 
 # 使用
 
@@ -69,9 +69,11 @@ UML图：
 
 进入程序主界面，载入已保存的订单                         
 
-![img](README/clip_image034.gif)                                                                      增加新订单：
+![img](README/clip_image034.gif)                                                                      
+增加新订单：
 
-![img](README/clip_image036.gif)                                              返回主界面，在最后一行能找到新增的订单                         
+![img](README/clip_image036.gif)                                              
+返回主界面，在最后一行能找到新增的订单：                
 
 ![img](README/clip_image038.gif)                
 
@@ -133,7 +135,8 @@ UML图：
 
  ![img](README/clip_image069.gif)                               
 
-直接在表格上即可进行修改，修改将自动保存                         ![img](README/clip_image071.gif)                               
+直接在表格上即可进行修改，修改将自动保存                         
+![img](README/clip_image071.gif)                               
 
 # 遇到的问题 
 
